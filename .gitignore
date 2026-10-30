@@ -1,0 +1,8 @@
+node_modules
+.next
+.next-sri
+next-env.d.ts
+*.tsbuildinfo
+data/points.json
+public/maplibre
+public/tiles

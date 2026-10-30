@@ -1,0 +1,7 @@
+[
+  { "il": "istanbul", "slug": "ornek-kadikoy", "name": "Örnek Point Kadıköy", "district": "Kadıköy", "lat": 40.9903, "lng": 29.0271, "status": "yayinda" },
+  { "il": "istanbul", "slug": "ornek-besiktas", "name": "Örnek Point Beşiktaş", "district": "Beşiktaş", "lat": 41.0422, "lng": 29.0067, "status": "yayinda" },
+  { "il": "ankara", "slug": "ornek-cankaya", "name": "Örnek Point Çankaya", "district": "Çankaya", "lat": 39.9179, "lng": 32.8627, "status": "yayinda" },
+  { "il": "izmir", "slug": "ornek-karsiyaka", "name": "Örnek Point Karşıyaka", "district": "Karşıyaka", "lat": 38.4561, "lng": 27.1094, "status": "yayinda" },
+  { "il": "trabzon", "slug": "ornek-ortahisar", "name": "Örnek Point Ortahisar", "district": "Ortahisar", "lat": 41.0027, "lng": 39.7168, "status": "yayinda" }
+]

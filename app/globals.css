@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #0b1220;
+  color: #e6edf6;
+}
+
+main {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 24px 16px;
+}
+
+a {
+  color: #5ee0d0;
+}
+
+.map {
+  height: 420px;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #111a2c;
+}
+
+.badge {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
